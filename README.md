@@ -3,8 +3,9 @@
 
 온라인 행동 기반 판매 예측
 
-1) 데이터 : L.point data 사용
+1) 데이터 : L.point data, 날씨 API, 네이버 쇼핑 사용
 2) 사용 언어 : Python
+3) 개발 환경 : AWS EC2, (Jupyter notebook)
 
 
 * 데이터 분석에 사용한 L.point data는 개인적으로 제공할 수 없습니다. (* L.point 데이터는 공유 불가입니다.) 
